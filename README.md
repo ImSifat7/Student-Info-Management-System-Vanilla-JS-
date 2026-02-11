@@ -1,16 +1,3 @@
-# ✅ 📌 Project Title
-
-**Student Info Management System (Vanilla JS)**
-
----
-
-# ✅ 📄 Short Description (≈350 characters)
-
-A simple and responsive Student Info Management System built using HTML, CSS, and Vanilla JavaScript. This project allows users to add student details dynamically and display them in a modern card-based layout. It demonstrates DOM manipulation, event handling, and clean UI design without using tables or external libraries.
-
----
-
-# ✅ 📘 README.md (Copy This)
 
 ```markdown
 # Student Info Management System (Vanilla JS)
