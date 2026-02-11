@@ -57,13 +57,9 @@ This project is designed to practice:
 - Dynamic element creation
 - Responsive UI design
 
----
+
 
 ## 👨‍💻 Author
 
 **Md Sifat Hosen**
 
----
-
-
-Just tell me 🚀
